@@ -8,7 +8,7 @@ let people = [member_1, member_2, member_3]
 
 for (var i = 0; i < 2; i++)
     for(j= 0; j < people.length; j++)
-        people[j].saySomething();
+        people[j].introduceSelf();
 
 /*for (var x = 0; x < 2; x++)
     for(y= 0; y < people.length; y++)
