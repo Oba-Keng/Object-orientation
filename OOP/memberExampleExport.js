@@ -1,9 +1,9 @@
 class Member{
     constructor(age,name,pob,hobby){
-        this.age =age
+        this.age=age
         this.name=name
-        this.pob =pob
-        this.hobby =hobby
+        this.pob=pob
+        this.hobby=hobby
 
     }
 
