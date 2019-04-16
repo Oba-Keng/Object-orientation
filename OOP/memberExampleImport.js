@@ -10,9 +10,9 @@ for (var i = 0; i < 2; i++)
     for(j= 0; j < people.length; j++)
         people[j].saySomething();
 
-for (var x = 0; x < 2; x++)
+/*for (var x = 0; x < 2; x++)
     for(y= 0; y < people.length; y++)
-        people[y].passTime();
+        people[y].passTime();*/
 
 
 
